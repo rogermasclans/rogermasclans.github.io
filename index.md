@@ -5,7 +5,7 @@ I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua Schoo
 
 ## Research
 ### Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation [[here]](https://www.startiq.org)
-(with Aaron Chatterji, Sharique Hasan, and Rick Larrick), Working Paper (June 2022)
+with Aaron Chatterji, Sharique Hasan, and Rick Larrick, Working Paper (June 2022)
 
 
 **Abstract**

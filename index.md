@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages AAAA
-
-You can use the [editor on GitHub](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blahblah
 
 ### Research
+Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
+(with Aaron Chatterji, Sharique Hasan, and Rick Larrick), Working Paper (June 2022)
 
-[Judgment, Evaluative Schemas, and Entrepreneurial Idea Geneartion](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
 ```markdown
 Syntax highlighted code block
 

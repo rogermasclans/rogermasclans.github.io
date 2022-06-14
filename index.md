@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/rogermasclans/rogermasclan
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Judgment, Evaluative Schemas, and Entrepreneurial Idea Geneartion](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
 ```markdown
 Syntax highlighted code block
 

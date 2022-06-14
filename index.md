@@ -9,7 +9,7 @@ I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua Schoo
 
 
 ## Software & web applications
-**StartIq**: Entrepreneurial training. We use insights from the social sciences to develop your skills and judgment in developing, evaluating, and implementing new business ideas [[startiq.org]](www.startiq.org)
+**StartIq**: Entrepreneurial training. We use insights from the social sciences to improve entrepreneurial skills and judgment in generating, evaluating, and implementing new business ideas [[startiq.org]](www.startiq.org)
 
 
 

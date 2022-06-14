@@ -1,7 +1,7 @@
 Blahblah
 
 ### Research
-Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
+**Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation** [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
 (with Aaron Chatterji, Sharique Hasan, and Rick Larrick), Working Paper (June 2022)
 
 ```markdown

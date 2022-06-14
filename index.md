@@ -1,6 +1,7 @@
-Blahblah
+I research ... 
+I am a PhD candidate in Business Administration at The Fuqua School of Business, Duke University. Before joining academia, I co-founded and run **[nowordlost]**(www.nowordlost.com). I've also worked 6 years in M&A, leading multinational projects in different industries. 
 
-### Research
+# Research
 **Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation** [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
 (with Aaron Chatterji, Sharique Hasan, and Rick Larrick), Working Paper (June 2022)
 

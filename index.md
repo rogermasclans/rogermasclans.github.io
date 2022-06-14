@@ -1,4 +1,4 @@
-I research strategy and human behavior in business contexts, focusing on the frictions that firms and persons encounter in developing innovations. I draw from behavioral and economic sciences, and, if possible, I like to rely on randomized experiments.
+I research strategy and human behavior in business contexts, focusing on the frictions that firms and persons encounter in developing innovations. I draw from behavioral and economic sciences, and, if possible, rely on randomized experiments.
 
 
 I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua School of Business, Duke University. Before joining academia, I co-founded and ran **[nowordlost](https://www.nowordlost.com)**, where we use software and machine learning along with B2B ancient commercialization techniques to disrupt the translation industry. I've also worked 6 years in M&A, leading international projects in different industries. 

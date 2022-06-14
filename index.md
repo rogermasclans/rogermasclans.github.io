@@ -13,38 +13,24 @@ I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua Schoo
 
 
 
-## Other research/business cases
-...
+## Other research & Cases
+**The future of employment and new professional competencies: The business perspective** [[here]](https://media.iese.edu/research/pdfs/ST-0490.pdf)
+(with María Luisa Blazquez and Jordi Canals), IESE Publishing (2019)
 
+**Las competencias profesionales del futuro: un diagnóstico y un plan de acción para promover el empleo juvenil después de la COVID-19** [[here]](https://www.iese.edu/es/wp-content/uploads/sites/2/2020/07/IESE-Competencias-profesionales-del-futuro-2020.pdf)
+(with María Luisa Blazquez and Jordi Canals), IESE Publishing (2020)
+
+**Ingka in 2020. Corporate Governance, Purpose and Transformation** 
+(with Jordi Canals), IESE Business School, SM-1698-E (2021)
+
+**Fluidra** 
+(with Josep Tàpies and Jordi Canals), IESE Business School, SM-1697-E (2021)
+
+**PromoFarma 2018** 
+(with Jordi Canals), IESE Business School, SM-1692-E (2020)
+
+**Amadeus: Boosting Long-term Growth** 
+(with Jordi Canals), IESE Business School, SM-1691-E (2020)
 
 ## CV
 [[here]](www.startiq.org)
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogermasclans/rogermasclans.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

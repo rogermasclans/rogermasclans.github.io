@@ -20,6 +20,8 @@ Most entrepreneurial ideas are of uncertain quality. As a result, many entrepren
 **StartIq**: Entrepreneurial training. We use insights from the social sciences to improve entrepreneurial skills and judgment in generating, evaluating, and implementing new business ideas [[startiq.org]](https://www.startiq.org)
 
 
+<hr/> 
+
 
 ## Other non-peer reviewed research
 Unemployment is problematic in Spain. Young people, in particular, have experienced unemployment rates of around 30% for years. The following studies---and those that follow [[here]](https://www.iese.edu/faculty-research/initiatives/education-for-jobs/)---aim to understand the business perspectives on that matter and outline some ideas to help solve the issue:
@@ -29,6 +31,9 @@ Unemployment is problematic in Spain. Young people, in particular, have experien
 
 **Las competencias profesionales del futuro: un diagnóstico y un plan de acción para promover el empleo juvenil después de la COVID-19** [[here]](https://www.iese.edu/es/wp-content/uploads/sites/2/2020/07/IESE-Competencias-profesionales-del-futuro-2020.pdf)
 (with María Luisa Blazquez and Jordi Canals), IESE Publishing (2020)
+
+
+<hr/> 
 
 
 ## CV [[here]](www.startiq.org)

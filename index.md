@@ -1,7 +1,7 @@
-I research ... 
+I'm a social researcher interested in firms and human behavior in business contexts. 
 
 
-I am a PhD candidate in Business Administration at The Fuqua School of Business, Duke University. Before joining academia, I co-founded and run **[nowordlost]**(www.nowordlost.com). I've also worked 6 years in M&A, leading multinational projects in different industries. 
+I'm a PhD candidate in Business Administration---Strategy---at The Fuqua School of Business, Duke University. Before joining academia, I co-founded and run **[nowordlost](www.nowordlost.com)**, where we use software and machine learning to disrupt the translation industry. I've also worked 6 years in M&A, leading international projects in different industries. 
 
 # Research
 **Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation** [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)

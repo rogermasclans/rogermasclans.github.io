@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Roger Masclans
 description: Strategy and Entrepreneurship
+github:
+  is_project_page: false

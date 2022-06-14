@@ -1,4 +1,4 @@
-I research strategy and human behavior in business contexts. I focus on the frictions firms and humans encounter in developing innovations and on potential solutions. I draw from behavioral and economic sciences, I believe in randomized experiments, and develop my own software applications to collect data. 
+I research strategy and human behavior in business contexts, focusing on the frictions that firms and persons encounter in developing innovations. I draw from behavioral and economic sciences, and, if possible, I like to rely on randomized experiments.
 
 
 I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua School of Business, Duke University. Before joining academia, I co-founded and ran **[nowordlost](www.nowordlost.com)**, where we use software and machine learning along with B2B ancient commercialization techniques to disrupt the translation industry. I've also worked 6 years in M&A, leading international projects in different industries. 
@@ -6,6 +6,19 @@ I'm a Ph.D. candidate in Business Administration---Strategy---at The Fuqua Schoo
 # Research
 **Judgment, Evaluative Schemas, and Entrepreneurial Idea Generation** [here](https://github.com/rogermasclans/rogermasclans.github.io/edit/main/index.md)
 (with Aaron Chatterji, Sharique Hasan, and Rick Larrick), Working Paper (June 2022)
+
+
+# ??
+[startiq.org](www.startiq.org)
+
+
+# Other research/business cases
+...
+
+
+# CV
+[here](www.startiq.org)
+
 
 ```markdown
 Syntax highlighted code block

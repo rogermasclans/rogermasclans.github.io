@@ -9,7 +9,7 @@ PhD Candidate in Strategy at Duke University, The Fuqua School of Business
 I investigate the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations into mass markets. Some of my work employs advanced computational methods and innovative experimental approaches.
 
 Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked several years in M&A, leading international projects with a focus on technological firms, including biotech, materials, advanced water treatment technologies, and energy generation.
-<a href="https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">cv</span></a>
+<a href="https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">cv</span></a>
 
 
 ## working papers
@@ -18,19 +18,19 @@ Before joining academia, I founded a startup providing software and machine lear
 
 _with Sharique Hasan and Wesley Cohen. NBER Working Paper #32262_ 
 <a href="https://www.nber.org/papers/w32262" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
-<a href="https://zenodo.org/records/10815144" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">data</span></a>
+<a href="https://zenodo.org/records/10815144" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">data</span></a>
 
 <details>
   <summary>Abstract</summary>
   This paper uses a large language model to develop an ex-ante measure of the commercial potential of scientific findings. In addition to validating the measure against the typical holdout sample, we validate it externally against 1.) the progression of scientific findings through a major university’s technology transfer process and 2.) firms’ use of the academic science of major American research universities. We then illustrate the measure’s utility by applying it to two questions. First, does the patenting of academic research by universities impede its breadth of use by firms? Second, to illustrate how this measure can advance our understanding of the determinants of firms’ use of science generally, we use it to analyze how one factor, universities’ reputations for generating commercializable science, impacts firms’ use of academic science. For the former question, using our measure to control for commercializable science, we find that patenting does not dampen the dissemination of academic science in industry. For the second, we find that reputation per se, apart from the production of commercializable science, impacts industry’s use of science, especially for that science with high commercial potential, implying that the commercializable science of less prominent universities is disproportionately overlooked by industry.
 </details>
 
-
+<br/>
 
 **Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation**
 
 _with Aaron Chatterji, Sharique Hasan, and Rick Larrick_
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">paper</span></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 
 <details>
   <summary>Abstract</summary>

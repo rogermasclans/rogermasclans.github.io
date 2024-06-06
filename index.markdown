@@ -5,7 +5,6 @@ layout: default
 # Roger Masclans
 PhD Candidate in Strategy at Duke University, The Fuqua School of Business
 
-## about 
 I investigate the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations into mass markets. Some of my work employs advanced computational methods and innovative experimental approaches.
 
 Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked several years in M&A, leading international projects with a focus on technological firms, including biotech, materials, advanced water treatment technologies, and energy generation.
@@ -25,9 +24,7 @@ Before joining academia, I founded a startup providing software and machine lear
 
 <br/>
 
-**Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation**
-
-with Aaron Chatterji, Sharique Hasan, and Rick Larrick
+**Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation**, with Aaron Chatterji, Sharique Hasan, and Rick Larrick
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 
 <details>

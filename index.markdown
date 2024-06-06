@@ -2,20 +2,25 @@
 layout: home
 ---
 
-# Track HN
 
-## about
+#### PhD Candidate in Strategy @Duke University, The Fuqua School of Business
+I investigate the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations into mass markets. Some of my work employs advanced computational methods and innovative experimental approaches.
+Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked several years in M&A, leading international projects with a focus on technological firms, including biotech, materials, advanced water treatment technologies, and energy generation.
 
-Track HN ([track-hacker-news.com](https://track-hacker-news.com)) is a project to track, archive, visualize and analyze data from [Hacker News](https://news.ycombinator.com/).
+[cv](https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view)
 
-Created by [Nami W](https://nami.land/). Database sponsored by [Retool](https://retool.com/).
 
-## features
+## Working Papers
 
-- complete and up-to-date dataset
-- score, rank and comments count history
-- additional data like URL HTTP status
-- API service
-- interactive dashboard
+### Measuring the Commercial Potential of Science
+_with Sharique Hasan and Wesley Cohen. NBER Working Paper #32262_
+[paper](https://www.nber.org/papers/w32262)
+[data](https://zenodo.org/records/10815144)
 
-## live data demo - story score and rank history
+This paper uses a large language model to develop an ex-ante measure of the commercial potential of scientific findings. In addition to validating the measure against the typical holdout sample, we validate it externally against 1.) the progression of scientific findings through a major university’s technology transfer process and 2.) firms’ use of the academic science of major American research universities. We then illustrate the measure’s utility by applying it to two questions. First, does the patenting of academic research by universities impede its breadth of use by firms? Second, to illustrate how this measure can advance our understanding of the determinants of firms’ use of science generally, we use it to analyze how one factor, universities’ reputations for generating commercializable science, impacts firms’ use of academic science. For the former question, using our measure to control for commercializable science, we find that patenting does not dampen the dissemination of academic science in industry. For the second, we find that reputation per se, apart from the production of commercializable science, impacts industry’s use of science, especially for that science with high commercial potential, implying that the commercializable science of less prominent universities is disproportionately overlooked by industry.
+
+### Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation
+_with Aaron Chatterji, Sharique Hasan, and Rick Larrick_
+[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964)
+
+Crafting high-quality ideas is crucial for entrepreneurs to succeed, yet evidence about the factors that shape the idea-generation process is scarce. A long-standing question is whether differences across entrepreneurs in market judgment—the ability to evaluate business ideas—explain differences in ideas’ quality and composition. We conduct an experiment with an intervention that improves subjects’ ability to evaluate an idea’s market potential, finding that improved judgment leads subjects to generate ideas 15% higher in quality and more complete, with stronger effects among initially poorly-calibrated subjects. Our results support a potential mechanism: individuals with developed judgment test more ideas and better filter them before committing to one. Simple training can improve judgment and idea quality, complementing ex-post, experimental methods by reducing the costs of testing ideas.

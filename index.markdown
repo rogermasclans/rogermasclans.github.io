@@ -10,9 +10,7 @@ I investigate the mechanisms driving the commercialization of scientific researc
 
 Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked several years in M&A, leading international projects with a focus on technological firms, including biotech, materials, advanced water treatment technologies, and energy generation.
 
-[cv](https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view)
-
-<span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">CV</span>
+[<span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">cv</span>](https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view)
 
 ## working papers
 

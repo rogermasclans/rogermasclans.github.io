@@ -14,7 +14,7 @@ Before joining academia, I founded a startup providing software and machine lear
 
 ## working papers
 
-`-` Measuring the Commercial Potential of Science, <style="font-size: 0.7em;">_with Sharique Hasan and Wesley Cohen. NBER Working Paper #32262_ </a>
+`-` Measuring the Commercial Potential of Science, <span="font-size: 0.7em;">_with Sharique Hasan and Wesley Cohen. NBER Working Paper #32262_</span>
 <a href="https://www.nber.org/papers/w32262" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 <a href="https://zenodo.org/records/10815144" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">data</span></a>
 

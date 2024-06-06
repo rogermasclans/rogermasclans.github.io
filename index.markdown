@@ -12,6 +12,9 @@ Before joining academia, I founded a startup providing software and machine lear
 
 [<span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">cv</span>](https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view)
 
+<a href="https://example.com" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;">cv</a>
+
+<a href="https://example.com" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; padding: 4px; border-radius: 4px;">cv</span></a>
 ## working papers
 
 ### Measuring the Commercial Potential of Science

@@ -1,14 +1,14 @@
-title: riggraz
-email: riccardo.graziosi97@gmail.com
-description: riggraz's thoughts
+title: Roger Masclans
+email: roger.masclans@duke.edu
+description: Roger Masclans website
 baseurl: ""
-url: "https://riggraz.dev"
-github_username:  riggraz
+# url: "https://riggraz.dev"
+github_username:  rogermasclans
 
 permalink: /:slug.html
 
-favicon: "favicon.png"
-goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
+# favicon: "favicon.png"
+# goat_counter: "riggraz" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please

@@ -1,5 +1,6 @@
 entries:
-  - title: me
+  - title:
+  This is me
     entries:
       - title: email
         url: mailto:riccardo.graziosi97@gmail.com

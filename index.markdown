@@ -12,7 +12,7 @@ Before joining academia, I founded a startup providing software and machine lear
 [cv](https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view)
 
 
-## working Papers
+## working papers
 
 ### Measuring the Commercial Potential of Science
 _with Sharique Hasan and Wesley Cohen. NBER Working Paper #32262_

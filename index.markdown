@@ -11,7 +11,7 @@ PhD Candidate in Strategy at Duke University, The Fuqua School of Business.
 I explore the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations. Some of my work employs advanced computational methods and innovative experimental approaches.
 
 
-Before academia, I founded a startup providing software and machine learning translation solutions. I also worked for several years in M&A, leading international projects with a focus on technological firms&mdashin sectors such as advanced water treatment technologies, biotech, energy generation, and materials science.
+Before academia, I founded a startup providing software and machine learning translation solutions. I also worked for several years in M&A, leading international projects with a focus on technological firms&mdash;in sectors such as advanced water treatment technologies, biotech, energy generation, and materials science.
 <a href="https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">cv</span></a>
 
 

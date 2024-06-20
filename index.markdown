@@ -15,7 +15,7 @@ Before joining academia, I founded a startup providing software and machine lear
 
 ## working papers
 
-**Measuring the Commercial Potential of Science**, with Sharique Hasan and Wesley Cohen. NBER WP #32262
+* Measuring the Commercial Potential of Science, with Sharique Hasan and Wesley Cohen. NBER WP #32262
 <a href="https://www.nber.org/papers/w32262" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 <a href="https://zenodo.org/records/10815144" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">data</span></a>
 
@@ -26,7 +26,7 @@ Before joining academia, I founded a startup providing software and machine lear
 
 <br/>
 
-**Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation**, with Aaron Chatterji, Sharique Hasan, and Rick Larrick
+* Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation, with Aaron Chatterji, Sharique Hasan, and Rick Larrick
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 
 <details>

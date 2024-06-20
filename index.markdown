@@ -4,15 +4,11 @@ layout: default
 
 
 ## Roger Masclans
-PhD Candidate in Strategy at Duke University, The Fuqua School of Business
 
-## about
-I investigate the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations. Some of my work employs advanced computational methods and innovative experimental approaches.
+I investigate the mechanisms driving the commercialization of scientific research, from the generation of ideas to the diffusion of science-based innovations. Some of my work employs advanced computational methods and innovative experimental approaches. 
 
-
-Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked for several years in M&A, leading international projects with a focus on technological firms. These projects included sectors such as advanced water treatment technologies, biotech, energy generation, materials science, and software.
+I'm a PhD Candidate in Strategy at Duke University, The Fuqua School of Business. Before joining academia, I founded a startup providing software and machine learning translation solutions for large firms. I also worked for several years in M&A, leading international projects with a focus on technological firms. These projects included sectors such as advanced water treatment technologies, biotech, energy generation, materials science, and software.
 <a href="https://drive.google.com/file/d/1qtqlaD13a2UB2brY4T-5LIaMXtgOwg-S/view" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">cv</span></a>
-
 
 
 

@@ -23,9 +23,6 @@ Before academia, I founded a startup providing software and machine learning tra
 <a href="https://zenodo.org/records/10815144" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">data</span></a>
 
 
-
-<br/>
-
 * Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation, with Aaron Chatterji, Sharique Hasan, and Rick Larrick
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964" style="text-decoration: underline; text-decoration-color: darkgrey; text-decoration-thickness: 1px;"><span style="color: #e57373; background-color: #f5f5f5; border-radius: 4px;">paper</span></a>
 

@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<style>
-  @import url('https://fonts.googleapis.com/css?family=Roboto');
-</style>
+
 
 # Roger Masclans
 PhD Candidate in Strategy at Duke University, The Fuqua School of Business

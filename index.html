@@ -35,9 +35,15 @@
         li {
             margin-bottom: 30px; /* Adds vertical space between list items */
         }
+        .work-in-progress li {
+            margin-bottom: 10px; /* Different margin for work in progress items */
+        }
         ul {
             list-style-type: none; /* Removes bullet points */
             padding: 0; /* Removes default padding */
+        }
+        .spacer {
+            height: 50px; /* Adds blank space at the end of the page */
         }
          @media (max-width: 850px) {
             body {
@@ -81,9 +87,12 @@
     </ul>
     
     <h3>work in progress</h3>
-    <ul>
+    <ul class="work-in-progress">
         <li><strong>Under-investment in Science Startups and Incumbent Rent-Sharing</strong></li>
         <li><strong>When Does Information Lead to Action? Evidence from Two Experiments on STEM Skill Acquisition</strong>, with S. Hasan and M. Faber</li>
     </ul>
+
+    <div class="spacer"></div> <!-- Adds blank space at the end of the page -->
+
 </body>
 </html>

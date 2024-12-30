@@ -21,7 +21,7 @@
             padding: 0;
             font-family: 'Open Sans', sans-serif;
             line-height: 1.6;
-            background-color: #f9f9f9;
+            background-color: #fdfdfd; /* Softer white color */
             color: #333;
             box-sizing: border-box;
         }
@@ -52,20 +52,24 @@
         /* Grid System */
         .container {
             display: grid;
-            grid-template-columns: 1fr 3fr;
+            grid-template-columns: 1fr 2.5fr;
             gap: 20px;
-            margin: 40px auto;
-            max-width: 1200px;
+            margin: 60px auto; /* Increased top and bottom margins */
+            max-width: 900px; /* Narrower content window */
             padding: 0 20px;
         }
         .left {
             display: flex;
             flex-direction: column;
             align-items: flex-start;
+            position: sticky;
+            top: 0;
+            align-self: start; /* Ensures left side stays fixed */
         }
         .right {
             display: flex;
             flex-direction: column;
+            overflow-y: auto;
         }
         .profile-img {
             width: 100%;
@@ -73,6 +77,15 @@
             height: auto;
             border-radius: 4%;
             margin-bottom: 20px;
+        }
+
+        /* Section Spacing */
+        section {
+            margin-bottom: 40px; /* Adds more space between sections */
+        }
+        .abstract {
+            font-size: 0.85em; /* Smaller font size for abstracts */
+            color: #555;
         }
 
         /* Responsive Design */
@@ -131,24 +144,14 @@
                         <a href="https://zenodo.org/records/10815144">Data</a> | 
                         <a href="https://github.com/rogermasclans/measuring_the_commercial_potential_of_science">Code</a>
                         <p class="abstract">
-                            <strong>Abstract:</strong> We develop an ex-ante measure of commercial potential of science, an otherwise unobservable variable driving the performance of innovation-intensive firms. 
-                            To do so, we rely on LLMs and neural networks to predict whether scientific articles will influence firms' use of science. Incorporating time-varying models and the quantification 
-                            of uncertainty, the measure is validated through both traditional methods and out-of-sample exercises, leveraging a major university’s technology transfer data. To illustrate the 
-                            methodological contributions of our measure, we apply it to examining the impact of university reputation and university privatization of science, finding that firms’ reliance on 
-                            reputation may lead to foregone opportunities, and privatization (i.e., patenting) appears to increase firms’ use of the science of one university. We make our measure and method 
-                            available to researchers.
+                            <strong>Abstract:</strong> We develop an ex-ante measure of commercial potential of science, an otherwise unobservable variable driving the performance of innovation-intensive firms. To do so, we rely on LLMs and neural networks to predict whether scientific articles will influence firms' use of science. Incorporating time-varying models and the quantification of uncertainty, the measure is validated through both traditional methods and out-of-sample exercises, leveraging a major university’s technology transfer data. To illustrate the methodological contributions of our measure, we apply it to examining the impact of university reputation and university privatization of science, finding that firms’ reliance on reputation may lead to foregone opportunities, and privatization (i.e., patenting) appears to increase firms’ use of the science of one university. We make our measure and method available to researchers.
                         </p>
                     </li>
                     <li>
                         <strong>Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation</strong>, with A. Chatterji, S. Hasan, and R. Larrick 
                         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964">Paper</a>
                         <p class="abstract">
-                            <strong>Abstract:</strong> Crafting high-quality ideas is crucial for entrepreneurs to succeed, yet evidence about the factors that shape the idea-generation process is scarce. 
-                            A long-standing question is whether differences across entrepreneurs in market judgment—the ability to evaluate business ideas—explain differences in ideas’ quality and composition. 
-                            We conduct an experiment with an intervention that improves subjects’ ability to evaluate an idea’s market potential, finding that improved judgment leads subjects to generate ideas 
-                            15% higher in quality and more complete, with stronger effects among initially poorly-calibrated subjects. Our results support a potential mechanism: individuals with developed judgment 
-                            mentally test more ideas and better filter them before committing to one. Simple training can improve judgment and idea quality, complementing ex-post, experimental methods by reducing 
-                            the costs of testing ideas.
+                            <strong>Abstract:</strong> Crafting high-quality ideas is crucial for entrepreneurs to succeed, yet evidence about the factors that shape the idea-generation process is scarce. A long-standing question is whether differences across entrepreneurs in market judgment—the ability to evaluate business ideas—explain differences in ideas’ quality and composition. We conduct an experiment with an intervention that improves subjects’ ability to evaluate an idea’s market potential, finding that improved judgment leads subjects to generate ideas 15% higher in quality and more complete, with stronger effects among initially poorly-calibrated subjects. Our results support a potential mechanism: individuals with developed judgment mentally test more ideas and better filter them before committing to one. Simple training can improve judgment and idea quality, complementing ex-post, experimental methods by reducing the costs of testing ideas.
                         </p>
                     </li>
                 </ul>

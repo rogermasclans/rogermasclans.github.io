@@ -21,13 +21,18 @@
             padding: 0;
             font-family: 'Open Sans', sans-serif;
             line-height: 1.6;
-            background-color: #fdfdfd; /* Softer white color */
+            background-color: #fcfcfc; /* Even lighter white */
             color: #333;
             box-sizing: border-box;
         }
-        h2, h3 {
+        h2 {
             margin: 0;
             color: #333;
+        }
+        h3 {
+            margin: 0;
+            color: #333;
+            font-size: 1.2em; /* Slightly smaller section titles */
         }
         a {
             color: #e57373;
@@ -49,13 +54,27 @@
             margin: 0 0 1.2em;
         }
 
+        /* Font Adjustments */
+        .about-text {
+            font-size: 0.95em; /* Reduced font size for About section */
+            color: #444;
+        }
+        .paper-title {
+            font-size: 0.9em; /* Smaller font size for paper titles */
+            font-weight: bold;
+        }
+        .abstract {
+            font-size: 0.85em; /* Smaller font size for abstracts */
+            color: #555;
+        }
+
         /* Grid System */
         .container {
             display: grid;
             grid-template-columns: 1fr 2.5fr;
             gap: 20px;
-            margin: 60px auto; /* Increased top and bottom margins */
-            max-width: 900px; /* Narrower content window */
+            margin: 60px auto;
+            max-width: 900px;
             padding: 0 20px;
         }
         .left {
@@ -64,7 +83,7 @@
             align-items: flex-start;
             position: sticky;
             top: 0;
-            align-self: start; /* Ensures left side stays fixed */
+            align-self: start;
         }
         .right {
             display: flex;
@@ -81,11 +100,7 @@
 
         /* Section Spacing */
         section {
-            margin-bottom: 40px; /* Adds more space between sections */
-        }
-        .abstract {
-            font-size: 0.85em; /* Smaller font size for abstracts */
-            color: #555;
+            margin-bottom: 40px;
         }
 
         /* Responsive Design */
@@ -93,8 +108,8 @@
             .container {
                 grid-template-columns: 1fr;
             }
-            .profile-img {
-                max-width: 200px;
+            .left {
+                position: static; /* Remove sticky behavior on smaller screens */
             }
         }
         @media (max-width: 600px) {
@@ -105,10 +120,10 @@
                 font-size: 1.5em;
             }
             h3 {
-                font-size: 1.2em;
+                font-size: 1em;
             }
             p, li {
-                font-size: 1em;
+                font-size: 0.9em;
             }
         }
     </style>
@@ -130,16 +145,16 @@
         <div class="right">
             <section id="about">
                 <h3>About</h3>
-                <p>My research studies the translation of scientific discoveries into commercial applications and the diffusion of innovations into mass markets.</p>
-                <p>Along with my research, I develop novel datasets and tools to better understand the commercialization of science. Check out <a href="https://scientifiq.ai">scientifiq.ai</a>, our platform to help advance research on innovation.</p>
-                <p>Prior to academia, I founded a startup providing software and machine learning translation solutions for large firms. I also spent years in M&A, where I led numerous projects in technological sectors such as advanced water treatment technologies, biotech, energy generation, and materials science.</p>
+                <p class="about-text">My research studies the translation of scientific discoveries into commercial applications and the diffusion of innovations into mass markets.</p>
+                <p class="about-text">Along with my research, I develop novel datasets and tools to better understand the commercialization of science. Check out <a href="https://scientifiq.ai">scientifiq.ai</a>, our platform to help advance research on innovation.</p>
+                <p class="about-text">Prior to academia, I founded a startup providing software and machine learning translation solutions for large firms. I also spent years in M&A, where I led numerous projects in technological sectors such as advanced water treatment technologies, biotech, energy generation, and materials science.</p>
             </section>
 
             <section id="working-papers">
                 <h3>Working Papers</h3>
                 <ul>
                     <li>
-                        <strong>Measuring the Commercial Potential of Science</strong>, with S. Hasan and W. Cohen. NBER WP #32262
+                        <span class="paper-title">Measuring the Commercial Potential of Science</span>, with S. Hasan and W. Cohen. NBER WP #32262
                         <a href="https://www.nber.org/papers/w32262">Paper</a> | 
                         <a href="https://zenodo.org/records/10815144">Data</a> | 
                         <a href="https://github.com/rogermasclans/measuring_the_commercial_potential_of_science">Code</a>
@@ -148,7 +163,7 @@
                         </p>
                     </li>
                     <li>
-                        <strong>Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation</strong>, with A. Chatterji, S. Hasan, and R. Larrick 
+                        <span class="paper-title">Taste Before Production: The Role of Judgment in Entrepreneurial Idea Generation</span>, with A. Chatterji, S. Hasan, and R. Larrick 
                         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4324964">Paper</a>
                         <p class="abstract">
                             <strong>Abstract:</strong> Crafting high-quality ideas is crucial for entrepreneurs to succeed, yet evidence about the factors that shape the idea-generation process is scarce. A long-standing question is whether differences across entrepreneurs in market judgment—the ability to evaluate business ideas—explain differences in ideas’ quality and composition. We conduct an experiment with an intervention that improves subjects’ ability to evaluate an idea’s market potential, finding that improved judgment leads subjects to generate ideas 15% higher in quality and more complete, with stronger effects among initially poorly-calibrated subjects. Our results support a potential mechanism: individuals with developed judgment mentally test more ideas and better filter them before committing to one. Simple training can improve judgment and idea quality, complementing ex-post, experimental methods by reducing the costs of testing ideas.
@@ -160,8 +175,8 @@
             <section id="work-in-progress">
                 <h3>Work in Progress</h3>
                 <ul>
-                    <li><strong>Under-investment in Science Startups and Incumbent Rent-Sharing</strong></li>
-                    <li><strong>When Does Information Lead to Action? Evidence from Two Experiments on STEM Skill Acquisition</strong>, with S. Hasan and M. Faber</li>
+                    <li><span class="paper-title">Under-investment in Science Startups and Incumbent Rent-Sharing</span></li>
+                    <li><span class="paper-title">When Does Information Lead to Action? Evidence from Two Experiments on STEM Skill Acquisition</span>, with S. Hasan and M. Faber</li>
                 </ul>
             </section>
         </div>

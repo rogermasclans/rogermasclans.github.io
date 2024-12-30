@@ -36,7 +36,6 @@
         }
         a {
             color: #e57373;
-            text-decoration: underline;
             text-decoration-thickness: 2px;
             text-decoration-color: darkgrey;
 /*             font-size: 0.9em; /* Reduced font size for links */ */
@@ -47,6 +46,13 @@
         ul {
             list-style-type: none;
             padding: 0;
+            margin: 0;
+        }
+        ul.links {
+            margin-top: 10px;
+        }
+        ul.links li {
+            margin-bottom: 5px; /* Spacing between links */
         }
         li {
             margin-bottom: 20px;
@@ -139,10 +145,10 @@
             <img src="https://github.com/rogermasclans/rogermasclans.github.io/blob/2b669d9295ad66fa0d5155316e04a4607790725f/assets/roger.png?raw=true" alt="Profile Picture" class="profile-img">
             <h2>Roger Masclans</h2>
             <p>PhD Candidate in Strategy at Duke University, The Fuqua School of Business</p>
-            <p>
-                <a href="https://rogermasclans.github.io/assets/cv_roger_masclans.pdf">CV</a> | 
-                <a href="https://github.com/rogermasclans">GitHub</a>
-            </p>
+            <ul class="links">
+                <li><a href="https://rogermasclans.github.io/assets/cv_roger_masclans.pdf">CV</a></li>
+                <li><a href="https://github.com/rogermasclans">GitHub</a></li>
+            </ul>
         </div>
 
         <!-- Right Section -->

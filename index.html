@@ -39,7 +39,7 @@
     .journal {
       font-size: 0.85em;
       color: #555;
-      display: inline;     /* ← make sure it's inline, not flex */
+      display: block;     /* ← make sure it's inline, not flex */
       margin: 0 !important;
       padding: 0 !important;
     }
@@ -67,7 +67,6 @@
       content:"►";
       font-size:0.7em;          /* small arrow stays small */
       margin-right:4px;
-      display: block;      /* forces line-break before/after */
     }
     /* When button has .open, arrow becomes ▼ */
     .toggle-abstract-btn.open::before{content:"▼";}
@@ -77,7 +76,6 @@
       font-size: 0.85em;   /* same size */
       color:#555;          /* same grey */
       font-weight:400;     /* normal weight */
-      display: block;      /* forces line-break before/after */
     }
     /* place AFTER every other .toggle-abstract-btn::before rule */
     .toggle-abstract-btn::before{

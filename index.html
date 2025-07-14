@@ -289,16 +289,14 @@
     </script> -->
     
     <script>
-      function toggleAbstract(btn) {
-        const container = btn.parentElement;
-        const abstract = container.querySelector('.abstract');
-        const arrow = btn.querySelector('.arrow');
+    function toggleAbstract(btn) {
+      const abstract = btn.parentElement.querySelector('.abstract');
+      const arrow = btn.querySelector('.arrow');
+      const isHidden = abstract.style.display === "none" || abstract.style.display === "";
     
-        const isHidden = abstract.style.display === "none" || abstract.style.display === "";
-    
-        abstract.style.display = isHidden ? "block" : "none";
-        arrow.textContent = isHidden ? "▼" : "►";
-      }
+      abstract.style.display = isHidden ? "block" : "none";
+      arrow.textContent = isHidden ? "▼" : "►";
+    }
     </script>
 </body>
 </html>

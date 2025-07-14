@@ -64,6 +64,19 @@
     /* When button has .open, arrow becomes ▼ */
     .toggle-abstract-btn.open::before{content:"▼";}
 
+    /*— make button text identical to .paper-authors-links —*/
+    .toggle-abstract-btn{
+      font-size: 0.85em;   /* same size */
+      color:#555;          /* same grey */
+      font-weight:400;     /* normal weight */
+    }
+    
+    /*— keep arrow smaller & vertically centred —*/
+    .toggle-abstract-btn::before{
+      font-size:0.6em;     /* arrow a bit smaller */
+      vertical-align:middle;
+    }
+    
     /* Abstract shown when <p> gets .show */
     .abstract{display:none;}
     .abstract.show{display:block;margin:5px 0 0 18px;}

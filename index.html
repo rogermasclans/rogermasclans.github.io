@@ -34,8 +34,15 @@
     .paper-title{font-size:.9em;font-weight:bold}
     .abstract{font-size:.85em;color:#555;margin-top:10px;display:none} /* hide by default */
     .links{font-size:.85em}
-    .paper-authors-links,.journal{font-size:.85em;color:#555;display:flex;gap:15px;flex-wrap:wrap;align-items:baseline}
-
+    .paper-authors-links
+        {font-size:.85em;color:#555;display:flex;gap:15px;flex-wrap:wrap;align-items:baseline}
+    .journal {
+      font-size: 0.85em;
+      color: #555;
+      display: inline;     /* ← make sure it's inline, not flex */
+      margin: 0 !important;
+      padding: 0 !important;
+    }
     .container{display:grid;grid-template-columns:1fr 2.5fr;gap:20px;margin:60px auto;max-width:900px;padding:0 20px}
     .left{display:flex;flex-direction:column;align-items:flex-start;position:sticky;top:0;align-self:start}
     .right{display:flex;flex-direction:column;overflow-y:auto}

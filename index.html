@@ -87,9 +87,12 @@
             align-items: baseline; /* Keeps links aligned with authors */
         }
         .journal {
-            font-size: 0.85em; /* Smaller font size for abstracts */
+            font-size: 0.85em; /* Slightly smaller font for authors */
             color: #555;
-/*             margin-top: 10px; /* Small vertical separation before abstract */ */
+            display: flex; /* Ensures authors and links appear inline */
+            gap: 15px; /* Adds horizontal separation between authors and links */
+            flex-wrap: wrap; /* Wrap links if they don’t fit in one line */
+            align-items: baseline; /* Keeps links aligned with authors */
         }
         /* Grid System */
         .container {

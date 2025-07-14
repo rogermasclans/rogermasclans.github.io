@@ -152,22 +152,40 @@
                 font-size: 0.9em;
             }
         }
+        /* ─── BUTTON ─────────────────────────────────────────────── */
         .toggle-abstract-btn {
           background: none;
           border: none;
           color: gray;
           cursor: pointer;
-          font-size: 0.9em;
+          font: inherit;          /* exact same font as siblings */
           padding: 0;
           margin: 0;
+          display: inline-flex;
+          align-items: center;
         }
-        .arrow {
-          font-size: 0.7em;
-          margin-right: 5px;
+        
+        /* little arrow drawn by CSS, NOT touched by JS */
+        .toggle-abstract-btn::before {
+          content: "►";
+          font-size: 0.7em;       /* stays small permanently */
+          margin-right: 4px;
+          transition: transform 0.15s ease;
         }
+        
+        /* when button has .open, replace arrow with ▼ */
+        .toggle-abstract-btn.open::before {
+          content: "▼";
+        }
+        
+        /* ─── ABSTRACT PARAGRAPH ─────────────────────────────────── */
         .abstract {
           display: none;
-          margin-top: 5px;
+          margin: 5px 0 0 18px;   /* indent nicely under title */
+        }
+        
+        .abstract.show {          /* toggled via JS */
+          display: block;
         }
     </style>
 </head>
@@ -290,12 +308,9 @@
     
     <script>
     function toggleAbstract(btn) {
-      const abstract = btn.parentElement.querySelector('.abstract');
-      const arrow = btn.querySelector('.arrow');
-      const isHidden = abstract.style.display === "none" || abstract.style.display === "";
-    
-      abstract.style.display = isHidden ? "block" : "none";
-      arrow.textContent = isHidden ? "▼" : "►";
+      const abs = btn.nextElementSibling;      // <p class="abstract">
+      btn.classList.toggle('open');
+      abs.classList.toggle('show');
     }
     </script>
 </body>

@@ -150,17 +150,17 @@
             }
         }
         .toggle-abstract-btn {
-            display: flex; /* Ensures authors and links appear inline */
-            gap: 15px; /* Adds horizontal separation between authors and links */
-            flex-wrap: wrap; /* Wrap links if they don’t fit in one line */
-            align-items: baseline; /* Keeps links aligned with authors */
-            background: none;
-            border: none;
-            color: #555;
-            cursor: pointer;
-            font-size: 0.85em;
-            padding: 0;
-        }
+          background: none;
+          border: none;
+          cursor: pointer;
+          font-family: Roboto, sans-serif;
+          font-size: 0.875rem;
+          color: #555;
+          font-weight: 400;
+          line-height: 1.5;
+          padding: 0;
+          margin: 0;
+        }  
         .toggle-abstract-btn:focus {
           outline: none;
         }
@@ -226,7 +226,7 @@
                      <li>
                         <span class="paper-title">Science, Startups, and the Problem of Value Capture: Thin Markets, Weak Options</span>
                         </span>
-                        <button class="toggle-abstract-btn paper-authors-links" onclick="toggleAbstract(this)" tabindex="-1">► Abstract</button>
+                        <button class="toggle-abstract-btn" onclick="toggleAbstract(this)" tabindex="-1">► Abstract</button>
                         <p class="abstract" style="display: none;">
 <!--                             <strong>Abstract: </strong> -->
                             Science-based innovations increasingly rely on startups to reach the market. Yet, in critical sectors such as energy, industrials, and materials, entrepreneurial activity remains limited. This paper investigates whether limited value capture at exit constrains these ventures. I estimate value creation and capture in startup acquisitions by combining acquisition prices with acquirer stock returns, adjusting for market noise to isolate the economic signal attributable to the acquisition. Science-based startups capture 46 cents per dollar of acquisition-induced surplus, compared to 61 cents for non-science startups<span>&#8212;</span>a 25% penalty. Conversely, they create 20% more joint surplus, consistent with continued entry despite the capture gap. To explain these patterns, I examine a central mechanism: the structure of a startup’s exit conditions. I argue that science-based startups face thinner, more concentrated acquisition markets and limited ability to scale independently. These features weaken the startup’s bargaining power and constrain value capture. Indeed, I find that science-based startups face up to 40% fewer potential acquirers, who are 53% larger on average, and that their value capture is more sensitive to buyer concentration. Concentrated markets have a dual effect: large incumbents enable greater surplus creation, but also shift bargaining power away from startups, allowing acquirers to extract most of the gains from innovation. Finally, I find that the capture gap disappears when startups can scale commercialization independently. The results indicate that constrained exit environments limit returns to science-based entrepreneurship, highlighting the importance of competitive acquisition markets, markets for technologies, and alternative commercialization pathways in incentivizing upstream innovation.

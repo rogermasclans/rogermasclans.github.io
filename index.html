@@ -291,10 +291,12 @@
     </div>
     <script>
       function toggleAbstract(btn) {
-        const abstract = btn.nextElementSibling;
+        const abstract = btn.nextElementSibling.querySelector('.abstract');
+        const arrow = btn.querySelector('.arrow');
         const isHidden = abstract.style.display === "none";
+    
         abstract.style.display = isHidden ? "block" : "none";
-        btn.textContent = (isHidden ? "▼" : "►") + " Abstract";
+        arrow.textContent = isHidden ? "▼" : "►";
       }
     </script>
 </body>

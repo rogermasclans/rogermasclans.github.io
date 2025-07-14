@@ -69,9 +69,11 @@
       font-size: 0.85em;   /* same size */
       color:#555;          /* same grey */
       font-weight:400;     /* normal weight */
-      margin-right:2px;    /* small gap between arrow and “Abstract” */
     }
-    
+    /* place AFTER every other .toggle-abstract-btn::before rule */
+    .toggle-abstract-btn::before{
+      margin-right: 0.15em !important;   /* tighter gap between arrow & “Abstract” */
+    }
     /*— keep arrow smaller & vertically centred —*/
     .toggle-abstract-btn::before{
       font-size:0.6em;     /* arrow a bit smaller */

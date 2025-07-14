@@ -291,7 +291,8 @@
     </div>
     <script>
       function toggleAbstract(btn) {
-        const abstract = btn.nextElementSibling.querySelector('.abstract');
+        const container = btn.nextElementSibling;
+        const abstract = container.querySelector('.abstract');
         const arrow = btn.querySelector('.arrow');
         const isHidden = abstract.style.display === "none";
     

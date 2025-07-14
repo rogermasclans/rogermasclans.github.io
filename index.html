@@ -155,29 +155,19 @@
         .toggle-abstract-btn {
           background: none;
           border: none;
+          color: gray;
           cursor: pointer;
-          font-family: Roboto, sans-serif;
-          font-size: 0.875rem;
-          color: #555;
-          font-weight: 400;
-          line-height: 1.5;
+          font-size: 0.9em;
           padding: 0;
           margin: 0;
-        }  
-        .toggle-abstract-btn:focus {
-          outline: none;
         }
-        .toggle-abstract-btn:hover {
-          text-decoration: none;
+        .arrow {
+          font-size: 0.7em;
+          margin-right: 5px;
         }
         .abstract {
           display: none;
           margin-top: 5px;
-        }
-        .arrow {
-          font-size: 0.7em;
-          vertical-align: middle;
-          margin-right: 4px;
         }
     </style>
 </head>
@@ -289,12 +279,25 @@
             </section>
         </div>
     </div>
-    <script>
+<!--     <script>
       function toggleAbstract(btn) {
         const abstract = btn.nextElementSibling;
         const isHidden = abstract.style.display === "none";
         abstract.style.display = isHidden ? "block" : "none";
         btn.textContent = (isHidden ? "<span class="arrow">▼</span>" : "<span class="arrow">►</span>") + " Abstract";
+      }
+    </script> -->
+    
+    <script>
+      function toggleAbstract(btn) {
+        const container = btn.parentElement;
+        const abstract = container.querySelector('.abstract');
+        const arrow = btn.querySelector('.arrow');
+    
+        const isHidden = abstract.style.display === "none" || abstract.style.display === "";
+    
+        abstract.style.display = isHidden ? "block" : "none";
+        arrow.textContent = isHidden ? "▼" : "►";
       }
     </script>
 </body>

@@ -94,6 +94,25 @@
     /* Abstract shown when <p> gets .show */
     .abstract{display:none;}
     .abstract.show{display:block;margin:5px 0 0 18px;}
+
+    /* Smoothly hide the left column and expand the right one */
+    .container { transition: grid-template-columns .25s ease; }
+    .left { transition: transform .25s ease, opacity .25s ease; }
+    
+    .left.hidden { 
+      transform: translateX(-120%);
+      opacity: 0;
+      pointer-events: none;
+    }
+    
+    .container.left-hidden {
+      grid-template-columns: 0fr 1fr;  /* right column takes full width */
+    }
+    
+    /* Keep single-column layout on small screens even when "hidden" */
+    @media (max-width:1000px){
+      .container.left-hidden { grid-template-columns: 1fr; }
+    }
         
     </style>
 </head>
@@ -234,6 +253,30 @@ function toggleAbstract(btn){
   btn.classList.toggle('open');
   abs.classList.toggle('show');
 }
+// Hide ".left" on scroll down; show on scroll up
+(function () {
+  const left = document.querySelector('.left');
+  const container = document.querySelector('.container');
+
+  let lastY = window.pageYOffset || document.documentElement.scrollTop;
+  const threshold = 8;   // ignore tiny scroll jitter
+  const topGuard = 80;   // don't hide near very top
+
+  window.addEventListener('scroll', function () {
+    const y = window.pageYOffset || document.documentElement.scrollTop;
+    if (Math.abs(y - lastY) < threshold) return;
+
+    const goingDown = y > lastY;
+    if (goingDown && y > topGuard) {
+      left.classList.add('hidden');
+      container.classList.add('left-hidden');
+    } else {
+      left.classList.remove('hidden');
+      container.classList.remove('left-hidden');
+    }
+    lastY = y;
+  }, { passive: true });
+})();
 </script>
 </body>
 </html>
